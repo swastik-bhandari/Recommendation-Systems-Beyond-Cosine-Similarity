@@ -33,7 +33,3 @@ While cosine similarity effectively captures rating patterns, it ignores the mag
 
 - `book_recommendation.ipynb` – Jupyter Notebook containing the implementation, EDA, and recommendation pipeline.
 - `book_ratings.csv` – Dataset of user, book, and ratings used for the project.
-
----
-   git clone <repository-url>
-   cd <repository-folder>
